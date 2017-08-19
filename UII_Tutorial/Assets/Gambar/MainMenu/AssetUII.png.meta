@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: c0c5110e945a6487b99732d1ca2e6c1a
+timeCreated: 1448508144
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MainMenu
+    21300002: KeyInBtn
+    21300004: CutiBtn
+    21300006: AktifBtn
+    21300008: InfoBtn
+    21300010: AboutBtn
+    21300012: NPbtn
+    21300014: HomeBtn
+    21300016: RestartBtn
+    21300018: ResumeBtn
+    21300020: ExitBtn
+    21300022: pause
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MainMenu
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 776
+        width: 2121
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 442.22037, y: -10.7855835}
+        - {x: 424.22037, y: 1.2144165}
+        - {x: 404.22037, y: 13.2144165}
+        - {x: 393.22037, y: 20.214417}
+        - {x: 389.22037, y: 23.214417}
+        - {x: 378.22037, y: 30.214417}
+        - {x: 361.22037, y: 40.214417}
+        - {x: 356.22037, y: 44.214417}
+        - {x: 343.22037, y: 51.214417}
+        - {x: 334.22037, y: 57.214417}
+        - {x: -65.77963, y: 57.214417}
+        - {x: -66.77963, y: 56.214417}
+        - {x: -309.77963, y: 56.214417}
+        - {x: -314.77963, y: 54.214417}
+        - {x: -321.77963, y: 50.214417}
+        - {x: -330.77963, y: 44.214417}
+        - {x: -337.77963, y: 40.214417}
+        - {x: -348.77963, y: 34.214417}
+        - {x: -372.77963, y: 20.214417}
+        - {x: -397.77963, y: 5.2144165}
+        - {x: -404.77963, y: 1.2144165}
+        - {x: -414.77963, y: -4.7855835}
+        - {x: -421.77963, y: -8.7855835}
+        - {x: -431.77963, y: -14.7855835}
+        - {x: -438.77963, y: -18.785583}
+        - {x: -443.77963, y: -21.785583}
+        - {x: -447.77963, y: -24.785583}
+        - {x: -449.77963, y: -26.785583}
+        - {x: -449.77963, y: -56.785583}
+        - {x: -447.77963, y: -58.785583}
+        - {x: 464.22037, y: -58.785583}
+        - {x: 464.22037, y: -24.785583}
+        - {x: 456.22037, y: -18.785583}
+    - name: KeyInBtn
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 454
+        width: 246
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.675617, y: 59.16539}
+        - {x: -53.675617, y: 30.16539}
+        - {x: -53.675617, y: -30.83461}
+        - {x: -29.675617, y: -58.83461}
+        - {x: 27.324383, y: -58.83461}
+        - {x: 52.324383, y: -49.83461}
+        - {x: 55.324383, y: -44.83461}
+        - {x: 55.324383, y: 43.16539}
+        - {x: 50.324383, y: 59.16539}
+    - name: CutiBtn
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 456
+        width: 246
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.665817, y: 59.03836}
+        - {x: -53.665817, y: 43.03836}
+        - {x: -53.665817, y: -41.96164}
+        - {x: -52.665817, y: -46.96164}
+        - {x: -33.665817, y: -58.96164}
+        - {x: 28.334183, y: -58.96164}
+        - {x: 54.334183, y: -47.96164}
+        - {x: 54.334183, y: 45.03836}
+        - {x: 28.334183, y: 59.03836}
+    - name: AktifBtn
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 456
+        width: 246
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.52899, y: 59.03836}
+        - {x: -53.52899, y: 55.03836}
+        - {x: -53.52899, y: -35.96164}
+        - {x: -33.52899, y: -58.96164}
+        - {x: 42.47101, y: -58.96164}
+        - {x: 55.47101, y: -43.96164}
+        - {x: 55.47101, y: 59.03836}
+    - name: InfoBtn
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 457
+        width: 246
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.709717, y: 59.474854}
+        - {x: -53.709717, y: 47.474854}
+        - {x: -53.709717, y: -36.525146}
+        - {x: -47.709717, y: -58.525146}
+        - {x: 50.290283, y: -58.525146}
+        - {x: 55.290283, y: -53.525146}
+        - {x: 55.290283, y: 54.474854}
+        - {x: 53.290283, y: 59.474854}
+    - name: AboutBtn
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 456
+        width: 246
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.763428, y: 59.03836}
+        - {x: -53.763428, y: 42.03836}
+        - {x: -53.763428, y: -46.96164}
+        - {x: -43.763428, y: -58.96164}
+        - {x: 31.236572, y: -58.96164}
+        - {x: 55.236572, y: -47.96164}
+        - {x: 55.236572, y: 45.03836}
+        - {x: 26.236572, y: 59.03836}
+    - name: NPbtn
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 456
+        width: 246
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.706299, y: 59.03836}
+        - {x: -52.7063, y: 42.03836}
+        - {x: -52.7063, y: -31.96164}
+        - {x: -31.706299, y: -49.96164}
+        - {x: -25.706299, y: -51.96164}
+        - {x: 34.2937, y: -51.96164}
+        - {x: 55.2937, y: -33.96164}
+        - {x: 55.2937, y: 35.03836}
+        - {x: 29.293701, y: 59.03836}
+    - name: HomeBtn
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 55
+        width: 254
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.42157, y: -49.99318}
+        - {x: -54.42157, y: -54.99318}
+        - {x: -54.42157, y: -67.99318}
+        - {x: -53.42157, y: -68.99318}
+        - {x: 45.57843, y: -68.99318}
+        - {x: 54.57843, y: -63.99318}
+        - {x: 54.57843, y: -54.99318}
+        - {x: 53.57843, y: -49.99318}
+      - - {x: -30.42157, y: 70.00682}
+        - {x: -54.42157, y: 45.00682}
+        - {x: -54.42157, y: -48.99318}
+        - {x: 45.57843, y: -48.99318}
+        - {x: 54.57843, y: -23.99318}
+        - {x: 54.57843, y: 51.00682}
+        - {x: 21.57843, y: 70.00682}
+    - name: RestartBtn
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 55
+        width: 254
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.442886, y: -49.99318}
+        - {x: -53.442886, y: -68.99318}
+        - {x: 49.557114, y: -68.99318}
+        - {x: 55.557114, y: -65.99318}
+        - {x: 55.557114, y: -49.99318}
+      - - {x: -42.442886, y: 70.00682}
+        - {x: -53.442886, y: 48.00682}
+        - {x: -53.442886, y: -40.99318}
+        - {x: -37.442886, y: -48.99318}
+        - {x: 42.557114, y: -48.99318}
+        - {x: 55.557114, y: -30.99318}
+        - {x: 55.557114, y: 65.00682}
+        - {x: 40.557114, y: 70.00682}
+    - name: ResumeBtn
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 55
+        width: 254
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.47229, y: -49.99318}
+        - {x: -54.47229, y: -68.99318}
+        - {x: 51.52771, y: -68.99318}
+        - {x: 54.52771, y: -60.99318}
+        - {x: 54.52771, y: -49.99318}
+      - - {x: 28.52771, y: 70.00682}
+        - {x: -29.47229, y: 70.00682}
+        - {x: -54.47229, y: 43.00682}
+        - {x: -54.47229, y: -36.99318}
+        - {x: -36.47229, y: -48.99318}
+        - {x: 33.52771, y: -48.99318}
+        - {x: 54.52771, y: -20.99318}
+        - {x: 54.52771, y: 51.00682}
+        - {x: 52.52771, y: 61.00682}
+    - name: ExitBtn
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 52
+        width: 254
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.74765, y: -47.802643}
+        - {x: -53.74765, y: -48.802643}
+        - {x: -53.74765, y: -65.80264}
+        - {x: -45.74765, y: -66.80264}
+        - {x: 48.25235, y: -66.80264}
+        - {x: 54.25235, y: -61.802643}
+        - {x: 54.25235, y: -52.802643}
+        - {x: 41.25235, y: -47.802643}
+      - - {x: -24.74765, y: 71.19736}
+        - {x: -53.74765, y: 58.197357}
+        - {x: -53.74765, y: -20.802643}
+        - {x: -25.74765, y: -46.802643}
+        - {x: 32.25235, y: -46.802643}
+        - {x: 54.25235, y: -18.802643}
+        - {x: 54.25235, y: 54.197357}
+        - {x: 28.25235, y: 71.19736}
+    - name: pause
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 456
+        width: 246
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.64917, y: 59.03836}
+        - {x: -53.64917, y: 46.03836}
+        - {x: -53.64917, y: -58.96164}
+        - {x: 55.35083, y: -58.96164}
+        - {x: 55.35083, y: 35.03836}
+        - {x: 46.35083, y: 59.03836}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

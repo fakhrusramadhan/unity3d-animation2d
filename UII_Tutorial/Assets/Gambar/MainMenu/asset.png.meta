@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 9cd38a5bc846ee34a9af67035a222f15
+timeCreated: 1444561325
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: asset_0
+    21300002: asset_1
+    21300004: asset_2
+    21300006: asset_3
+    21300008: asset_4
+    21300010: asset_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: asset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 466
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -121.5, y: 182.66}
+        - {x: -121.5, y: -182.34}
+        - {x: 121.5, y: -182.34}
+        - {x: 121.5, y: 182.66}
+    - name: asset_1
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 226
+        width: 425
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104.23999, y: 56.019997}
+        - {x: 98.23999, y: 57.019997}
+        - {x: -110.76001, y: 57.019997}
+        - {x: -110.76001, y: -55.980003}
+        - {x: 108.23999, y: -55.980003}
+        - {x: 111.23999, y: -46.980003}
+        - {x: 111.23999, y: 41.019997}
+    - name: asset_2
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 226
+        width: 90
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.340027, y: 97.02}
+        - {x: -23.340027, y: -95.98}
+        - {x: 23.659973, y: -95.98}
+        - {x: 23.659973, y: 94.02}
+        - {x: 20.659973, y: 97.02}
+    - name: asset_3
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 226
+        width: 89
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.460022, y: 97.02}
+        - {x: -23.460022, y: -95.98}
+        - {x: 22.539978, y: -95.98}
+        - {x: 23.539978, y: -94.98}
+        - {x: 23.539978, y: 94.02}
+        - {x: 22.539978, y: 97.02}
+    - name: asset_4
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 207
+        width: 643
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100.5, y: -138.86}
+        - {x: 137.5, y: -102.86}
+        - {x: 156.5, y: -70.86}
+        - {x: 166.5, y: -38.86}
+        - {x: 167.5, y: -33.86}
+        - {x: 167.5, y: 38.14}
+        - {x: 165.5, y: 46.14}
+        - {x: 155.5, y: 70.14}
+        - {x: 140.5, y: 99.14}
+        - {x: 112.5, y: 130.14}
+        - {x: 77.5, y: 154.14}
+        - {x: 39.5, y: 168.14}
+        - {x: -35.5, y: 168.14}
+        - {x: -44.5, y: 166.14}
+        - {x: -73.5, y: 154.14}
+        - {x: -97.5, y: 140.14}
+        - {x: -105.5, y: 135.14}
+        - {x: -138.5, y: 101.14}
+        - {x: -152.5, y: 78.14}
+        - {x: -163.5, y: 50.14}
+        - {x: -167.5, y: 30.14}
+        - {x: -167.5, y: -25.86}
+        - {x: -163.5, y: -43.86}
+        - {x: -160.5, y: -55.86}
+        - {x: -147.5, y: -83.86}
+        - {x: -139.5, y: -97.86}
+        - {x: -107.5, y: -131.86}
+        - {x: -86.5, y: -144.86}
+        - {x: -61.5, y: -157.86}
+        - {x: -38.5, y: -163.86}
+        - {x: -23.5, y: -166.86}
+        - {x: 28.5, y: -166.86}
+        - {x: 42.5, y: -163.86}
+        - {x: 56.5, y: -159.86}
+        - {x: 87.5, y: -144.86}
+    - name: asset_5
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 0
+        width: 1345
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 350.56, y: 13.5}
+        - {x: 350.56, y: 37.5}
+        - {x: -349.44, y: 37.5}
+        - {x: -349.44, y: 10.5}
+        - {x: -153.44, y: -37.5}
+        - {x: -127.44, y: -37.5}
+        - {x: -133.44, y: 13.5}
+        - {x: 144.56, y: -37.5}
+        - {x: 165.56, y: -37.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
